@@ -1,3 +1,4 @@
-### Data visualisation and ### Machine learning Algorithms
+### Data visualisation
 
-In This files you will find Data Visualisation as well as machine learning algorithms in applications.
+Hey, You can learn Basic to advanced level Data visualisation techniques from this Repository.
+if you are having any issues kindly let me know.
